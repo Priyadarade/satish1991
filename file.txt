@@ -1,2 +1,3 @@
 This is file added from master
 And we are going to merge it with dev branch
+This is different content adede at 4th line  to create conflict
